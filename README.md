@@ -12,7 +12,7 @@ Prelude: Please make sure you have already downloaded node on your system and th
 
 ## Development
 
-1. Clone the repo or download the ZIP
+1. Clone the repository or download the ZIP
 
 ```
 git clone [github https url]
